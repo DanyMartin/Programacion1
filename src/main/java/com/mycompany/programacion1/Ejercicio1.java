@@ -14,7 +14,7 @@ public class Ejercicio1 {
         System.out.println("Variable C = "+ C);
         System.out.println(N+"+"+A+"="+(N+A));
         System.out.println(A+"-"+N+"="+(A-N));
-        System.out.println("Valor numerico del carácter "+C+" = "+(int)C); 
+        System.out.println("Valor numerico del carácter es: "+C+" = "+(int)C); 
     }
     
 }
